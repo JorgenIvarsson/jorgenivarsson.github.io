@@ -1,5 +1,5 @@
 site: Sidey
-url: #yoururl
+url: https://jorgenivarsson.se #yoururl
 title: Sidey
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
@@ -8,7 +8,7 @@ twitter:
   creator: #yourusername
 author:
   twitter: #yourusername
-  name: #yourusername
+  name: Jörgen Ivarsson #yourusername
   avatar:
   email: #youremail
   url: #yoururl
@@ -20,7 +20,7 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -32,7 +32,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-sitemap
 
 collections:
   pages:
@@ -41,7 +41,7 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  
+
 defaults:
   -
     scope:
