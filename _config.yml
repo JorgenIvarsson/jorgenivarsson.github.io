@@ -1,6 +1,7 @@
 site: Sidey
 url: https://jorgenivarsson.se #yoururl
 title: Fuzzy Fiction
+tag_line: by Jörgen Ivarsson
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
@@ -14,9 +15,15 @@ author:
   url: #yoururl
 permalink: pretty
 
+timezone: Europe/Stockholm
 baseurl: ""
 
-highlighter: none
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: sv-SE
+highlighter: rouge
+
+
 
 exclude:
   - .jekyll-cache
