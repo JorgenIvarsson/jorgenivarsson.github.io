@@ -13,10 +13,11 @@ I place the book on the small stack of books I am currently reading and notice t
 ![A stack of books](/assets/img/books.jpg){:class="img-responsive"} 
 _Some of the books shown are Swedish translations._
 
-Not “explaining” in the sense of making something plain or comprehensible to someone who does not understand it, nor in the condescending way Solnit describes in her essay—where the person doing the explaining often knows less about the subject than the person being addressed. Rather, these women explain things in the sense of offering reasons, causes, and ways of seeing.
+Not “explaining” in the sense of making something plain or comprehensible to someone who does not understand it, nor in the condescending way Solnit describes in her essay—where the person doing the explaining often knows less about the subject than the person being addressed. Rather, these women explain things in the sense of offering reasons, causes, and ways of seeing.  
 Reading their books expands the reader.
 
-Of course, I understand that no authors would want to be categorized by gender as the sole common denominator (I admit that the title of this blog post is a bit of clickbait). So there must be something else that unites them. Although these writers address different subjects and each has a distinct literary voice, I see three things that unite them.
+Of course, I understand that no authors would want to be categorized by gender as the sole common denominator (I admit that the title of this blog post is a bit of clickbait). So there must be something else that unites them.  
+Although these writers address different subjects and each has a distinct literary voice, I see three things that unite them.
 
 First, they share a critical perspective on our (capitalist) society. Their analyses dismantle and reassemble events and processes into new patterns, always attentive to questions of power and control — who holds power, and who does not.
 
