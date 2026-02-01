@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Woman Explain Things to Me.
-description: Woman Explain Things to Me.
-summary: Woman Explain Things to Me.
+title: Women Explain Things to Me
+description: Women Explain Things to Me
+summary: Women Explain Things to Me
 comments: false
 tags: [review, politics, litterature, activism, feminism]
 ---
