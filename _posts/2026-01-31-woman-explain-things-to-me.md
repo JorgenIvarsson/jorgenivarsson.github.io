@@ -28,16 +28,16 @@ Some of these books were written several years ago, yet what I have discovered i
 
 Books shown in the image (with their English titles):
 
-Naomi Klein, *This Changes Everything: Capitalism vs. the Climate*
+* Naomi Klein, *This Changes Everything: Capitalism vs. the Climate*
 
-Jenny Odell, *Saving Time: Discovering a Life Beyond the Clock*
+* Jenny Odell, *Saving Time: Discovering a Life Beyond the Clock*
 
-Jenny Odell, *How to Do Nothing: Resisting the Attention Economy*
+* Jenny Odell, *How to Do Nothing: Resisting the Attention Economy*
 
-Arundhati Roy, *The Algebra of Infinite Justice*
+* Arundhati Roy, *The Algebra of Infinite Justice*
 
-Rebecca Solnit, *Hope in the Dark*
+* Rebecca Solnit, *Hope in the Dark*
 
-Rebecca Solnit, *Men Explain Things to Me*
+* Rebecca Solnit, *Men Explain Things to Me*
 
-Rebecca Solnit, *Recollections of My Nonexistence*
+* Rebecca Solnit, *Recollections of My Nonexistence*
