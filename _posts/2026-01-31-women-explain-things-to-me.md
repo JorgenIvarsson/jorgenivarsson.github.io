@@ -16,7 +16,7 @@ _Some of the books shown are Swedish translations._
 Not “explaining” in the sense of making something plain or comprehensible to someone who does not understand, nor in the condescending way Solnit describes in her essay—where the person doing the explaining often knows less about the subject than the person being addressed. Rather, these women explain things in the sense of offering reasons, causes, and ways of seeing.  
 Reading their books expands the reader.
 
-As for “women,” I understand that an author would not wish to be categorized by gender as the sole common denominator.(I admit that the title of this blog post is a bit of clickbait).  
+As for “women,” I understand that an author would not wish to be categorized by gender as the sole common denominator.
 Although these writers address different subjects and each has a distinct literary voice, I see three things that unite them.
 
 First, they share a critical perspective on our (capitalist) society. Their analyses dismantle and reassemble events and processes into new patterns, always attentive to questions of power and control — who holds power, and who does not.
