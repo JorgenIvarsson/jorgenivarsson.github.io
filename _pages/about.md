@@ -12,6 +12,6 @@ I’m interested in photography, literature, film, music, politics, environmenta
 * [Pixelfed.social](https://pixelfed.social/neromancer "Neromancer at Pixelfed.social"){:target="_blank"}
 
 ### Social media:
-* [Mastodon.nu](https://mastodon.nu/@neromancer "Neromancer at Mastodon.nu") {:target="_blank"}
-* [Bluesky](https://bsky.app/profile/neromancer.bsky.social "Neromancer at Bluesky") {:target="_blank"}
+* [Mastodon.nu](https://mastodon.nu/@neromancer "Neromancer at Mastodon.nu"){:target="_blank"}
+* [Bluesky](https://bsky.app/profile/neromancer.bsky.social "Neromancer at Bluesky"){:target="_blank"}
 
