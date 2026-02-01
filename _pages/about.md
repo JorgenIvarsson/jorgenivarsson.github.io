@@ -3,26 +3,15 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Welcome to my personal blog!
+I work as an educational developer at Umeå University and have a background in media engineering.
 
-### Features
+I’m interested in photography, literature, film, music, politics, environmental issues, and technology.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+You can find my photography here:
+*[Pixelfed.social](https://pixelfed.social/neromancer "Neromancer at Pixelfed.social")
 
-### Screenshot
+Social media:
+*[Mastodon.nu](https://www.markdownlang.com "Neromancer at Mastodon.nu")
+*[Bluesky](https://bsky.app/profile/neromancer.bsky.social "Neromancer at Bluesky")
 
-![Screenshot](screenshot.png)
