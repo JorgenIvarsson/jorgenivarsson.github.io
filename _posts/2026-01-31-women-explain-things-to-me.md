@@ -3,6 +3,7 @@ layout: post
 title: Women Explain Things to Me
 description: "Notes on reading: Jenny Odell, Rebecca Solnit, Naomi Klein, and Arundhati Roy"
 summary: "Notes on reading: Jenny Odell, Rebecca Solnit, Naomi Klein, and Arundhati Roy"
+image: https://fuzzyfiction.net/assets/img/books.jpg
 comments: false
 tags: [review, politics, litterature, activism, feminism]
 ---
