@@ -6,10 +6,12 @@ summary: Woman Explain Things to Me.
 comments: false
 tags: [review, politics, litterature, activism, feminism]
 ---
-![A stack of books](/assets/img/books.jpg){:class="img-responsive"}
 I have just finished Jenny Odell’s *Saving Time: Discovering a Life Beyond the Clock*. I am standing at the window in my bedroom, filled with a sense of wonder. Her words are still humming in my mind as I search for a place within myself to hold the small golden treasures I have found in her book—insights that may, in time, bear fruit in my own life, from where I stand in the world.
 
 I place the book on the small stack of books I am currently reading and notice that all the authors are women: *Jenny Odell, Naomi Klein, Rebecca Solnit,* and *Arundhati Roy*. My gaze drifts across the titles and comes to rest on Rebecca Solnit’s *Men Explain Things to Me*. With a touch of humor, I realize that for me, it is women who explain things to me.
+
+![A stack of books](/assets/img/books.jpg){:class="img-responsive"}
+Some of the books are translated in to Swedish
 
 Not “explaining” in the sense of making something plain or comprehensible to someone who does not understand it, nor in the condescending way Solnit describes in her essay—where the person doing the explaining often knows less about the subject than the person being addressed. Rather, these women explain things in the sense of offering reasons, causes, and ways of seeing.
 Reading their books expands the reader.
