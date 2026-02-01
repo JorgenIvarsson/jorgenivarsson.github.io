@@ -4,14 +4,14 @@ title: About
 ---
 
 Welcome to my personal blog!
-I work as an educational developer at Umeå University and have a background in media engineering.
+I live in the north of Sweden and work as an educational developer at Umeå University, with a background in media engineering.
 
 I’m interested in photography, literature, film, music, politics, environmental issues, and technology.
 
 You can find my photography here:
-*[Pixelfed.social](https://pixelfed.social/neromancer "Neromancer at Pixelfed.social")
+* [Pixelfed.social](https://pixelfed.social/neromancer "Neromancer at Pixelfed.social")
 
 Social media:
-*[Mastodon.nu](https://www.markdownlang.com "Neromancer at Mastodon.nu")
-*[Bluesky](https://bsky.app/profile/neromancer.bsky.social "Neromancer at Bluesky")
+* [Mastodon.nu](https://www.markdownlang.com "Neromancer at Mastodon.nu")
+* [Bluesky](https://bsky.app/profile/neromancer.bsky.social "Neromancer at Bluesky")
 
