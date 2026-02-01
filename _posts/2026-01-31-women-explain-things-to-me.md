@@ -8,7 +8,7 @@ tags: [review, politics, litterature, activism, feminism]
 ---
 I have just finished Jenny Odell’s *Saving Time: Discovering a Life Beyond the Clock*. I am standing at the window in my bedroom, filled with a sense of wonder. Her words are still humming in my mind as I search for a place within myself to hold the small golden treasures I have found in her book—insights that may, in time, bear fruit in my own life, from where I stand in the world.
 
-I place the book on the small stack of books I am currently reading and notice that all the authors are women: *Jenny Odell, Naomi Klein, Rebecca Solnit,* and *Arundhati Roy*. My gaze drifts across the titles and comes to rest on Rebecca Solnit’s *Men Explain Things to Me*. With a touch of humor, I realize that for me, it is women who explain things to me.
+I place the book on the small stack of books I am currently reading and notice that all the authors are women: *Jenny Odell, Naomi Klein, Rebecca Solnit,* and *Arundhati Roy*. My gaze drifts across the titles and comes to rest on Rebecca Solnit’s *Men Explain Things to Me*. With a touch of humor, I realize that it is women who explain things to me.
 
 ![A stack of books](/assets/img/books.jpg){:class="img-responsive"} 
 _Some of the books shown are Swedish translations._
