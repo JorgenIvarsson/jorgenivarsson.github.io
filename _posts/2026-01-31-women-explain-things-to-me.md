@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Women Explain Things to Me
-description: Women Explain Things to Me
-summary: Women Explain Things to Me
+description: Notes on reading: Jenny Odell, Rebecca Solnit, Naomi Klein, and Arundhati Roy
+summary: Notes on reading: Jenny Odell, Rebecca Solnit, Naomi Klein, and Arundhati Roy
 comments: false
 tags: [review, politics, litterature, activism, feminism]
 ---
