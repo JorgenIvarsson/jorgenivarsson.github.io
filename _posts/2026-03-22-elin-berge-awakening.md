@@ -49,6 +49,6 @@ Intressant nog handlade frågorna från publiken nästan inte alls om fotografis
 Boken *Awakening* gavs ut 2020, precis före pandemin, vilket försvårade möjligheterna att nå ut brett med lanseringen av boken. Men att döma av den fullsatta salen finns det fortfarande ett stort intresse — både för Elins bilder och för den samtida feminina andlighet de skildrar.
 
 Här finns ett urval av bilder från projektet:
-https://www.elinberge.com/#/awakening/
+[https://www.elinberge.com/#/awakening/](https://www.elinberge.com/#/awakening/){:target="_blank"}
 
 Boken går att köpa på Bildmuseet (Jag såg att de hade några ex kvar i shopen), eller beställas på nätet. Efter att ha läst boken kan jag verkligen rekommendera den!
