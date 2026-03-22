@@ -12,7 +12,7 @@ Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmare
 ![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpeg){:class="img-responsive"} 
 _Elin Berge på Kvinnohistoriskt museum, mars 2026._
 
-Det var mycket givande att höra Elin berätta om sitt arbete. Utgångspunkten för projektet var Sune Jonssons dokumentära skildringar av västerbottniska väckelserörelser på 60-talet. Med dessa som referens gav hon sig ut för att undersöka om det fanns en samtida motsvarighet till andlighet i ett av världens mest sekulariserade länder.
+Det var mycket intressant och givande att lyssna på när Elin berätta om sitt arbete som dokumentärfotograf. Bakgrunden och inspirationen till projektet var fotografen Sune Jonssons dokumentära skildringar av västerbottniska väckelserörelser på 60-talet. Med dessa som referens gav hon sig ut för att undersöka om det fanns en samtida motsvarighet till andlighet i ett av världens mest sekulariserade länder.
 
 Det hon fann var en löst organiserad andlig rörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft.
 
