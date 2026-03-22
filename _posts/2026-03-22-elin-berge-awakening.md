@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Awakening av Elin Berge
-description: "En inblick i Awakening – Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
-summary: "En inblick i Awakening – Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
+description: "En inblick i Awakening – Dokumentärfotografen och filmaren Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
+summary: "En inblick i Awakening – Dokumentärfotografen och filmaren Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
 image: https://fuzzyfiction.net/assets/img/elin_berge.jpeg
 comments: false
 tags: [photography, review, feminism, eco-feminism, umeå]
