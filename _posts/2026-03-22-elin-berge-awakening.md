@@ -27,11 +27,11 @@ Elin beskrev också de konstnärliga och etiska utmaningarna i arbetet. Hur beh�
 
 En förutsättning för hennes närvaro var att hon själv deltog i samvaro, ritualer och workshops tillsammans med kvinnorna. Av det skälet berättar Elin att det här projektet har varit det svåraste att hålla en professionell distans till.
 
-Presentationen var en del av Kvinnohistoriskt museums utställning *The Goddess Returns – Protect the Earth*.
+Presentationen var en del av Kvinnohistoriskt museums utställning *The Goddess Returns – Protect the Earth* som handlar om ekofeminism och konst. Ekofeminismen kopplar bland annat samman förtrycket av kvinnor med förtrycket av djur och natur. Rörelsen har ett antal inriktningar och jag uppfattar att Elins projekt främst dokumenterar en riktning som skulle kunna kallas *spirituell ekofeminism*.
 
-I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten Annika Norlin och Elin Berge. Samtalet är otroligt värdefullt för att förstå kontexten kring projektet. Samtalet är en sorts meta-reflektion om projektet när boken efter flera år till slut är färdig. I samtalet frågar Annika om inte Elin kände en risk att framför allt män inte skulle förstå bilderna, utan att objektifiera (de nakna) kvinnorna. 
+I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten Annika Norlin och Elin Berge. Samtalet är otroligt värdefullt för att förstå kontexten kring projektet. Samtalet är en sorts meta-reflektion om projektet när boken efter flera års arbete till slut är färdig. I samtalet frågar Annika om inte Elin kände en risk att framför allt män inte skulle förstå bilderna, utan att objektifiera (de nakna) kvinnorna. 
 
-Själv har jag inga problem att både förstå berättelsen som den presenteras i bilder och text. Men den närhet, intimitet och systerskap som bilderna skildrar har jag svårt att känna igen mig i som man. 
+Personligen har jag inga problem att både förstå berättelsen som den presenteras i bilder och text. Jag uppfattar inte att det finns något objektifiering av kvinnorna, trots deras nakenhet. Men den närhet, intimitet och systerskap som bilderna skildrar har jag svårt att känna igen mig i som man. 
 
 Det är kanske inte konstigt att bilderna väcker frågor hos mig. Å ena sidan förstår jag behovet av systerskap, att få glädjas åt och fira sin kvinnlighet i ett patriarkalt samhälle. 
 Men bilderna väcker också frågan vad det kvinnliga är. Kan det kvinnliga existera utan motpol i det manliga (vad det nu är?). 
