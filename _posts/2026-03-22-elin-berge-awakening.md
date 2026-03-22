@@ -3,13 +3,13 @@ layout: post
 title: Awakening av Elin Berge
 description: "En inblick i Awakening – Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
 summary: "En inblick i Awakening – Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
-image: https://fuzzyfiction.net/assets/img/elin_berge.jpg
+image: https://fuzzyfiction.net/assets/img/elin_berge.jpeg
 comments: false
 tags: [photography, review, feminism, eco-feminism]
 ---
 Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt *Awakening*. Föreläsningen arrangerades av Kvinnohistoriskt museum* i Umeå förra veckan.
 
-![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpg){:class="img-responsive"} 
+![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpeg){:class="img-responsive"} 
 _Elin berge på Kvinnohistoriskt museum mars 2026._
 
 > "I went out to look for God in secular Sweden. But to my surprise, I met a Goddess instead. Awakening is a depiction of a loosely organized awakening movement made up of women who believe in the return of a divine feminine power that will change everything."
