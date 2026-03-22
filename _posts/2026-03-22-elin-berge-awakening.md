@@ -10,7 +10,7 @@ tags: [photography, review, feminism, eco-feminism, umeå]
 Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt *Awakening*. Föreläsningen arrangerades av Kvinnohistoriskt museum i Umeå förra veckan.
 
 ![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpeg){:class="img-responsive"} 
-_Elin berge på Kvinnohistoriskt museum, mars 2026._
+_Elin Berge på Kvinnohistoriskt museum, mars 2026._
 
 Det var mycket givande att höra Elin berätta om sitt arbete. Utgångspunkten för projektet var Sune Jonssons dokumentära skildringar av norrländska väckelserörelser. Med dessa som referens gav hon sig ut för att undersöka om det fanns en samtida motsvarighet till andlighet i ett av världens mest sekulariserade länder.
 
@@ -29,26 +29,26 @@ En förutsättning för hennes närvaro var att hon själv deltog i samvaro, rit
 
 Presentationen var en del av Kvinnohistoriskt museums utställning *The Goddess Returns – Protect the Earth*.
 
-I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten Annika Norlin och Elin Berge. Samtalet är otroligt värdefult för att förstå kontexten kring projektet. Samtalet är en sorts meta-reflekton om projktet när boken efter flera år till slut är färdig. I samtalet frågar Annika om inte Elin kände en risk att framför allt män inte skulle förstå bilderna, utan att objektifiera (de nakna) kvinnorna. 
+I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten Annika Norlin och Elin Berge. Samtalet är otroligt värdefullt för att förstå kontexten kring projektet. Samtalet är en sorts meta-reflektion om projektet när boken efter flera år till slut är färdig. I samtalet frågar Annika om inte Elin kände en risk att framför allt män inte skulle förstå bilderna, utan att objektifiera (de nakna) kvinnorna. 
 
-Själv har jag inga problem att både förstå berättelsen, så som den presenteras i bilder och text. Men den närhet, intimitet och systerskap som bilderna skildrar, är inte lika lätt för mig att känna igen mig i som man. 
+Själv har jag inga problem att både förstå berättelsen som den presenteras i bilder och text. Men den närhet, intimitet och systerskap som bilderna skildrar har jag svårt att känna igen mig i som man. 
 
-Det är inte kanske inte konstigt att bilderna väcker frågor hos mig. Å ena sidan förstår jag behovet av systerskap, att få glädjas åt och fira sin kvinnlighet i ett patrialkat samhälle. 
-Men bilderna väcker också frågan vad det kvinnliga är? Kan det kvinnliga existera utan motpol i det manliga (vad det nu är?). 
+Det är kanske inte konstigt att bilderna väcker frågor hos mig. Å ena sidan förstår jag behovet av systerskap, att få glädjas åt och fira sin kvinnlighet i ett patriarkalt samhälle. 
+Men bilderna väcker också frågan vad det kvinnliga är. Kan det kvinnliga existera utan motpol i det manliga (vad det nu är?). 
 
-Jag tänker osökt på boken *Jag har aldrig känt en man* av Jacqueline Harpman, där en grupp kvinnor tillsammans kämpar för att överleva i en okänd och främnade miljö, på en planet där alla män försvunnit spårlöst. I en värld där det enbart existerar kvinnor, är då inte alla bara människor?
+Jag tänker på boken *Jag har aldrig känt en man* av Jacqueline Harpman, där en grupp kvinnor tillsammans kämpar för att överleva i en okänd och främmande miljö, på en planet där alla män försvunnit spårlöst. I en värld där det enbart existerar kvinnor, är då inte alla bara människor?
 
-Men det här är bara ett exempel på ett av många filosofiska funderingar som väcks under det fantastiska bildspelet.
+Men det här är bara ett exempel på filosofiska funderingar som väcks under det fantastiska bildspelet.
 
-Bilderna är otroligt vackra, och det är ingen tvekan om att det är en konstnär bakom kameran. Men trots Elins fantastiska bilder, är mitt starkaste intryck inte någon enskild bild, utan  projektet som helhet. Hennes ständiga nyfikenhet och hennes mod att öppet utforska världen.
+Bilderna är otroligt vackra, och det är ingen tvekan om att det är en konstnär bakom kameran. Men trots Elins fantastiska bilder är mitt starkaste intryck inte någon enskild bild, utan  projektet som helhet. Hennes ständiga nyfikenhet och hennes mod att öppet utforska världen.
 
-Efter presentationen fick publiken möjlighet att ställa frågor, och engagemanget var stort. Många undrade över hennes syn på denna form av nyandlighet och om hon såg några gemensamma drag hos kvinnorna som sökt sig till rörelsen.
+Efter presentationen fick publiken möjlighet att ställa frågor, och engagemanget var stort. Många undrade över hennes syn på denna form av nyandlighet. Andra undrade om hon såg några gemensamma drag hos kvinnorna som sökt sig till rörelsen.
 
-Intressant nog handlade frågorna från publiken nästan inte alls om fotografisk teknik — som kameraval, komposition eller ljussättning. Jag tolkar det dels som att bildspråket upplevdes så självklart och starkt att tekniken blev underordnad, dels som att intresset i första hand riktades mot ämnet, snarare än mot fotografi som hantverk.
+Intressant nog handlade frågorna från publiken nästan inte alls om fotografisk teknik — som kameraval, bildformat, komposition eller ljussättning. Jag tolkar det dels som att bildspråket upplevdes så självklart och starkt att tekniken blev underordnad, dels som att intresset i första hand riktades mot ämnet, snarare än mot fotografi som hantverk.
 
 Boken *Awakening* gavs ut 2020, precis före pandemin, vilket försvårade möjligheterna att nå ut brett med lanseringen av boken. Men att döma av den fullsatta salen finns det fortfarande ett stort intresse — både för Elins bilder och för den samtida feminina andlighet de skildrar.
 
-Här finns ett urval av bilder från projeket:
+Här finns ett urval av bilder från projektet:
 https://www.elinberge.com/#/awakening/
 
-Boken går att köpa på Bildmuseet (Jag såg att de hade några ex kvar i shopen), eller beställas på nätet. Efter att ha läst boken kan verkligen rekommendera den!
+Boken går att köpa på Bildmuseet (Jag såg att de hade några ex kvar i shopen), eller beställas på nätet. Efter att ha läst boken kan jag verkligen rekommendera den!
