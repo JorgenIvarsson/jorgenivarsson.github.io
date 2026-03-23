@@ -42,7 +42,7 @@ Jag tänker på romanen *Jag har aldrig känt en man* av Jacqueline Harpman, dä
 Kanske är det just detta längtan ytterst handlar om. Inte bara att få bejaka en könad identitet, utan att till sist få vila i något enklare och mer radikalt: rätten att vara människa, utan att hela tiden speglas, definieras eller avgränsas av en motsats.
 
 Bildspelet fortsätter och varje ny bild väcker nyfiken hos mig.
-Fotografierna är otroligt vackra, och det är ingen tvekan om att det är en skicklig konstnär i arbete. Men trots Elins fantastiska bilder är mitt starkaste intryck inte någon enskild bild, utan  projektet som helhet. Hennes ständiga nyfikenhet och hennes mod att öppet utforska världen. Kanske är hennes förmåga att lämna betraktaren med fler frågor än svar som är hennes största kvalite som dokumentärfotograf.
+Fotografierna är otroligt vackra, och det är ingen tvekan om att det är en skicklig konstnär i arbete. Men trots Elins fantastiska bilder är mitt starkaste intryck inte någon enskild bild, utan  projektet som helhet. Hennes ständiga nyfikenhet och hennes mod att öppet utforska världen. Kanske är hennes förmåga att lämna betraktaren med fler frågor än svar som är hennes största kvalitet som dokumentärfotograf.
 
 Efter presentationen fick publiken möjlighet att ställa frågor, och engagemanget var stort. Många undrade över hennes syn på denna form av nyandlighet. Andra undrade om hon såg några gemensamma drag hos kvinnorna som sökt sig till rörelsen.
 
