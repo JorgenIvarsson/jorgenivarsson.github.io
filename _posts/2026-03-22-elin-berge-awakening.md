@@ -33,7 +33,7 @@ I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten
 
 Personligen har jag inga problem att både förstå berättelsen som den presenteras i bilder och text. Jag uppfattar inte att det finns något objektifiering av kvinnorna, trots deras nakenhet. Men den närhet, intimitet och systerskap som bilderna skildrar har jag svårt att känna igen mig i som man. 
 
-Det är kanske inte konstigt att bilderna väcker frågor hos mig. Å ena sidan förstår jag behovet av systerskap, att få glädjas åt och fira sin kvinnlighet i ett patriarkalt samhälle. 
+Det är kanske inte konstigt att bilderna väcker frågor hos mig. Å ena sidan förstår jag behovet av systerskap, att tillsammans hitta styrka och att få glädjas åt och fira sin kvinnlighet i ett patriarkalt samhälle. 
 Men bilderna väcker också frågan vad det kvinnliga är. Kan det kvinnliga existera utan motpol i det manliga (vad det nu är?). 
 
 Jag tänker på boken *Jag har aldrig känt en man* av Jacqueline Harpman, där en grupp kvinnor tillsammans kämpar för att överleva i en okänd och främmande miljö, på en planet där alla män försvunnit spårlöst. I en värld där det enbart existerar kvinnor, är då inte alla bara människor?
