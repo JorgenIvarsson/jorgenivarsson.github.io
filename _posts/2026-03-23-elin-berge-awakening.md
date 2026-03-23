@@ -29,7 +29,7 @@ En förutsättning för hennes närvaro var att hon själv deltog i samvaro, rit
 
 Presentationen var en del av Kvinnohistoriskt museums utställning *The Goddess Returns – Protect the Earth* som handlar om ekofeminism och konst. Ekofeminismen kopplar bland annat samman förtrycket av kvinnor med förtrycket av djur och natur. Rörelsen har ett antal inriktningar och jag uppfattar att Elins projekt främst dokumenterar en riktning som kallas *spirituell ekofeminism*.
 
-I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten Annika Norlin och Elin Berge. Samtalet är otroligt värdefullt för att förstå kontexten kring projektet. Samtalet är en sorts meta-reflektion om projektet när boken efter flera års arbete till slut är färdig. I samtalet frågar Annika om inte Elin kände en risk att framför allt män inte skulle förstå bilderna, utan att objektifiera (de nakna) kvinnorna. 
+I boken *Awakening* finns ett avslutande samtal mellan författaren och artisten Annika Norlin och Elin Berge. Samtalet är otroligt värdefullt för att förstå kontexten kring projektet. Samtalet är en sorts meta-reflektion om projektet när boken efter flera års arbete till slut är färdig. I samtalet uttrycker både Annika och Elin en oro att framför allt män inte skulle förstå bilderna, utan i stället objektifiera (de nakna) kvinnorna. 
 
 Personligen har jag inga problem att ta till mig berättelsen, så som den gestaltas i både bild och text. Jag uppfattar inte kvinnorna som objektifierade, trots deras nakenhet. Tvärtom finns där en påtaglig känsla av närhet, intimitet och systerskap – en kroppslig och andlig gemenskap. Men just i denna självklarhet uppstår också frågor hos mig. 
 
