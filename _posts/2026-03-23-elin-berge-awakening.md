@@ -7,7 +7,7 @@ image: https://fuzzyfiction.net/assets/img/elin_berge.jpeg
 comments: false
 tags: [photography, review, feminism, eco-feminism, umeå]
 ---
-Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt *Awakening*. Föreläsningen arrangerades av Kvinnohistoriskt museum i Umeå förra veckan.
+Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt [https://www.elinberge.com/#/awakening/](*Awakening*){:target="_blank"}. Föreläsningen arrangerades av Kvinnohistoriskt museum i Umeå förra veckan.
 
 ![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpeg){:class="img-responsive"} 
 _Elin Berge på Kvinnohistoriskt museum, mars 2026._
