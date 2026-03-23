@@ -16,7 +16,9 @@ Bakgrunden och inspirationen till projektet var [fotografen Sune Jonssons](https
 
 Det hon fann var en löst organiserad andlig rörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft.
 
+
 > "I went out to look for God in secular Sweden. But to my surprise, I met a Goddess instead. Awakening is a depiction of a loosely organized awakening movement made up of women who believe in the return of a divine feminine power that will change everything."
+
 
 
 Under två års tid följde Elin olika grupper och deltog i en rad andliga aktiviteter, möten och sammankomster, där kvinnor tillsammans utforskar det feminina, kroppen och sin inre kraft.
