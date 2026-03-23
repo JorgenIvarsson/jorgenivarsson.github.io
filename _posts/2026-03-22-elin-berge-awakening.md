@@ -44,7 +44,7 @@ Bilderna är otroligt vackra, och det är ingen tvekan om att det är en konstn�
 
 Efter presentationen fick publiken möjlighet att ställa frågor, och engagemanget var stort. Många undrade över hennes syn på denna form av nyandlighet. Andra undrade om hon såg några gemensamma drag hos kvinnorna som sökt sig till rörelsen.
 
-Intressant nog handlade frågorna från publiken nästan inte alls om fotografisk teknik — som kameraval, bildformat, komposition eller ljussättning. Jag tolkar det dels som att bildspråket upplevdes så självklart och starkt att tekniken blev underordnad, dels som att intresset i första hand riktades mot ämnet, snarare än mot fotografi som hantverk.
+Intressant nog handlade inga frågor från publiken om fotografisk teknik — som kameraval, bildformat, komposition eller ljussättning. Jag tolkar det dels som att bildspråket upplevdes så självklart och starkt att tekniken blev underordnad, dels som att intresset i första hand riktades mot ämnet, snarare än mot fotografi som hantverk.
 
 Boken *Awakening* gavs ut 2020, precis före pandemin, vilket försvårade möjligheterna att nå ut brett med lanseringen av boken. Men att döma av den fullsatta salen finns det fortfarande ett stort intresse — både för Elins bilder och för den samtida feminina andlighet de skildrar.
 
