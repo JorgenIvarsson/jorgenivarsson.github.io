@@ -21,7 +21,7 @@ Det hon fann var en löst organiserad andlig rörelse bestående av kvinnor som 
 
 Under två års tid följde Elin olika grupper och deltog i en rad andliga aktiviteter, möten och sammankomster, där kvinnor tillsammans utforskar det feminina, kroppen och sin inre kraft.
 
-Vi fick ta del av flera av de starka bilderna från hennes bok *Awakening*. Det var tydligt hur öppet och förtroendefullt deltagarna välkomnade henne in i sina gemenskaper och lät henne närvara vid ceremonier och ritualer.
+Under presentationen fick vi ta del av flera av de starka bilderna från hennes bok *Awakening*. Bilderna visar tydligt hur öppet och förtroendefullt deltagarna välkomnade henne in i sina gemenskaper och lät henne närvara vid ceremonier och ritualer.
 
 Elin beskrev också de konstnärliga och etiska utmaningarna i arbetet. Hur behåller man en dokumentär distans till människor man kommer nära? Hur undviker man stereotypa framställningar? Hur skildrar man nakenhet utan att reproducera den manliga blicken? Och hur gör man rättvisa åt det förtroende man har fått? 
 
