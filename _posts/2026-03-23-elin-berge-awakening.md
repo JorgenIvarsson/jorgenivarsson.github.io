@@ -7,12 +7,12 @@ image: https://fuzzyfiction.net/assets/img/elin_berge.jpeg
 comments: false
 tags: [photography, review, feminism, eco-feminism, umeå]
 ---
-Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt [*Awakening*](){:target="_blank"}. Föreläsningen arrangerades av Kvinnohistoriskt museum i Umeå förra veckan.
+Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt [*Awakening*](https://www.elinberge.com/#/awakening/){:target="_blank"}. Föreläsningen arrangerades av Kvinnohistoriskt museum i Umeå förra veckan.
 
 ![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpeg){:class="img-responsive"} 
 _Elin Berge på Kvinnohistoriskt museum, mars 2026._
 
-Bakgrunden och inspirationen till projektet var fotografen Sune Jonssons dokumentära skildringar av västerbottniska väckelserörelser på 60-talet. Med dessa som referens gav hon sig ut för att undersöka om det fanns en samtida motsvarighet till andlighet i ett av världens mest sekulariserade länder.
+Bakgrunden och inspirationen till projektet var [fotografen Sune Jonssons](https://sällskapetsunejonsson.se/galleri/){:target="_blank"} dokumentära skildringar av västerbottniska väckelserörelser på 60-talet. Med dessa som referens gav hon sig ut för att undersöka om det fanns en samtida motsvarighet till andlighet i ett av världens mest sekulariserade länder.
 
 Det hon fann var en löst organiserad andlig rörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft.
 
