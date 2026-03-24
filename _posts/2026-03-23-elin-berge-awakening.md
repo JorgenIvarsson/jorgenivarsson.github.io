@@ -34,7 +34,7 @@ Personligen har jag inga problem att ta till mig berättelsen, så som den gesta
 
 Hur skulle en manlig motsvarighet kunna se ut? Kan det finnas en parallell värld där män möts i samma sårbarhet, i samma förankring i naturen, i samma andliga riktning – kanske mot en gudinna, eller någon annan spirituell vision? Eller är det just frånvaron av en sådan möjlighet som gör dessa scener så laddade?
 
-Kanske är det därför jag inte riktigt kan stanna i den omedelbara värmen som bilderna förmedlar. För samtidigt som jag förstår behovet av en gemenskap, av att tillsammans formulera en styrka i ett patriarkalt samhälle, så väcker det en mer filosofisk fråga: vad är egentligen “det kvinnliga”? Är det något i sig självt, eller uppstår det först i relation till det manliga – vad det nu är?
+Kanske är det därför jag inte riktigt kan stanna kvar i den omedelbara värmen som bilderna förmedlar. För samtidigt som jag förstår behovet av en gemenskap, av att tillsammans formulera en styrka i ett patriarkalt samhälle, så väcker det en mer filosofisk fråga: vad är egentligen “det kvinnliga”? Är det något i sig självt, eller uppstår det först i relation till det manliga – vad det nu är?
 
 Jag tänker på romanen *Jag har aldrig känt en man* av Jacqueline Harpman, där en grupp kvinnor försöker orientera sig i en värld där männen plötsligt är spårlöst försvunna. I den berättelsen försöker huvudpersonen överleva tillsammans med en grupp kvinnor; men det som först och främst definieras som kvinnligt, blir i avsaknad av män gradvis något mer allmänmänskligt. Och kanske är det där något viktigt finns: i en värld utan motpoler, vad återstår då? Inte “kvinnor” eller “män” – utan människor.
 
