@@ -6,6 +6,10 @@
 	padding:0;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
 	font-family: system-ui, sans-serif;
 	-webkit-font-smoothing: antialiased;
