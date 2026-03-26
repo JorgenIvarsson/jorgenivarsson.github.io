@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Awakening av Elin Berge
-description: "En inblick i Awakening – Dokumentärfotografen och filmaren Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
-summary: "En inblick i Awakening – Dokumentärfotografen och filmaren Elin Berges skildring av kvinnlig andlighet och inre kraft i ett sekulärt Sverige."
+description: "Jag gick ut för att leta efter Gud i sekulära Sverige. Men till min förvåning mötte jag istället en Gudinna. *Awakening* är dokumentärfotografen Elin Berges skildring av en löst organiserad nutida väckelserörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft som kommer att förändra allt."
+summary: "Jag gick ut för att leta efter Gud i sekulära Sverige. Men till min förvåning mötte jag istället en Gudinna. *Awakening* är dokumentärfotografen Elin Berges skildring av en löst organiserad nutida väckelserörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft som kommer att förändra allt."
 image: https://fuzzyfiction.net/assets/img/elin_berge.jpeg
 comments: false
 tags: [photography, review, feminism, eco-feminism, umeå]
 ---
-Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt [*Awakening*](https://www.elinberge.com/#/awakening/){:target="_blank"}. Föreläsningen arrangerades av Kvinnohistoriskt museum i Umeå förra veckan.
+Jag hade förmånen att få se och lyssna till dokumentärfotografen och filmaren Elin Berge när hon presenterade sitt fotoprojekt *Awakening*, en föreläsningen arrangerad av Kvinnohistoriskt museum i Umeå.
 
 ![Elin Berge på Kvinnohistoriskt museum](/assets/img/elin_berge.jpeg){:class="img-responsive"} 
 _Elin Berge på Kvinnohistoriskt museum, mars 2026._
@@ -16,11 +16,14 @@ Bakgrunden och inspirationen till projektet var [fotografen Sune Jonssons](https
 
 Det hon fann var en löst organiserad andlig rörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft.
 
-> "I went out to look for God in secular Sweden. But to my surprise, I met a Goddess instead. Awakening is a depiction of a loosely organized awakening movement made up of women who believe in the return of a divine feminine power that will change everything."
+> "Jag gick ut för att leta efter Gud i sekulära Sverige. Men till min förvåning mötte jag istället en Gudinna. *Awakening* är en skildring av en löst organiserad nutida väckelserörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft som kommer att förändra allt."
 
 Under två års tid följde Elin olika grupper och deltog i en rad andliga aktiviteter, möten och sammankomster, där kvinnor tillsammans utforskar det feminina, kroppen och sin inre kraft.
 
 Under presentationen fick vi ta del av flera av de starka bilderna från hennes bok *Awakening*. Bilderna visar tydligt hur öppet och förtroendefullt deltagarna välkomnade henne in i sina gemenskaper och lät henne närvara vid ceremonier och ritualer.
+
+*Här kan du se ett urval av bilder från projektet:*
+[https://www.elinberge.com/#/awakening/](https://www.elinberge.com/#/awakening/){:target="_blank"}
 
 Elin beskrev också de konstnärliga och etiska utmaningarna i arbetet. Hur behåller man en dokumentär distans till människor man kommer nära? Hur undviker man stereotypa framställningar? Hur skildrar man nakenhet utan att reproducera den manliga blicken? Och hur gör man rättvisa åt det förtroende man har fått? 
 
@@ -48,8 +51,5 @@ Efter presentationen fick publiken möjlighet att ställa frågor, och engageman
 Intressant nog handlade inga frågor från publiken om fotografisk teknik — som kameraval, bildformat, komposition eller ljussättning. Jag tolkar det dels som att bildspråket upplevdes så självklart och starkt att tekniken blev underordnad, dels som att intresset i första hand riktades mot ämnet, snarare än mot fotografi som hantverk.
 
 Boken *Awakening* gavs ut 2020, precis före pandemin, vilket försvårade möjligheterna att nå ut brett med lanseringen av boken. Men att döma av den fullsatta salen finns det fortfarande ett stort intresse — både för Elins bilder och för den samtida feminina andlighet de skildrar.
-
-Här finns ett urval av bilder från projektet:
-[https://www.elinberge.com/#/awakening/](https://www.elinberge.com/#/awakening/){:target="_blank"}
 
 Boken går att köpa på Bildmuseet (Jag såg att de hade några ex kvar i shopen), eller beställas på nätet. Efter att ha läst boken kan jag verkligen rekommendera den!
