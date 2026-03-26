@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awakening av Elin Berge
-description: "Jag gick ut för att leta efter Gud i sekulära Sverige. Men till min förvåning mötte jag istället en Gudinna. *Awakening* är dokumentärfotografen Elin Berges skildring av en löst organiserad nutida väckelserörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft som kommer att förändra allt."
+description: "Jag gick ut för att leta efter Gud i sekulära Sverige. Men till min förvåning mötte jag istället en Gudinna. *Awakening* är dokumentärfotografen och filmaren Elin Berges skildring av en löst organiserad nutida väckelserörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft som kommer att förändra allt."
 summary: "Jag gick ut för att leta efter Gud i sekulära Sverige. Men till min förvåning mötte jag istället en Gudinna. *Awakening* är dokumentärfotografen Elin Berges skildring av en löst organiserad nutida väckelserörelse bestående av kvinnor som tror på återkomsten av en gudomlig feminin kraft som kommer att förändra allt."
 image: https://fuzzyfiction.net/assets/img/elin_berge.jpeg
 comments: false
